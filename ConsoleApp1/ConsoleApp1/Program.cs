@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Ceva Foarte Jmek");
             Console.WriteLine("Adunare");
-            
+            Console.WriteLine("Scadere");
         }
     }
 }
